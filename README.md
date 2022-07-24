@@ -25,7 +25,15 @@
 ![icons8-операционная-система-android-48](https://user-images.githubusercontent.com/74863359/180645433-34db0693-ba06-495b-9261-0487781bba8f.png)
 ![icons8-git-48](https://user-images.githubusercontent.com/74863359/180645429-99ed3e74-7929-4633-bce3-9b3843ca6489.png)
 ![icons8-docker-48](https://user-images.githubusercontent.com/74863359/180645473-eabb7a2f-cf86-4699-b687-9a6c7a695242.png)
+
+---
+
+### :fire: My Stats :
+
+[![WoRRuM's GitHub stats](https://github-readme-stats.vercel.app/api?username=worrum&show_icons=true&theme=radical)](https://github.com/worrum/github-readme-stats)
+
 <!--
+
 **WoRRuM/worrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
