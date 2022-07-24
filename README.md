@@ -18,7 +18,13 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
+![icons8-java-48](https://user-images.githubusercontent.com/74863359/180645430-1f2e5bfd-67ae-41a9-b983-dd962ec067ea.png)
+![icons8-kotlin-48](https://user-images.githubusercontent.com/74863359/180645431-d8fe140e-eaef-437a-81fc-4de6d9a0675a.png)
+![golang_logo_icon_171073](https://user-images.githubusercontent.com/74863359/180645428-57e967a9-8cdf-4a84-8670-a737bde245ea.png)
+![icons8-spring-logo-48](https://user-images.githubusercontent.com/74863359/180645432-e579e9d5-61f6-45cf-b0a8-e903534cd939.png)
+![icons8-операционная-система-android-48](https://user-images.githubusercontent.com/74863359/180645433-34db0693-ba06-495b-9261-0487781bba8f.png)
+![icons8-git-48](https://user-images.githubusercontent.com/74863359/180645429-99ed3e74-7929-4633-bce3-9b3843ca6489.png)
+![icons8-docker-48](https://user-images.githubusercontent.com/74863359/180645473-eabb7a2f-cf86-4699-b687-9a6c7a695242.png)
 <!--
 **WoRRuM/worrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
