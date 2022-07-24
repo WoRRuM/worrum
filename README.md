@@ -11,7 +11,7 @@
 
 ### About Me :
   
-- :telescope: I try myself in contributing to open-source Android projects and developing interested projects
+- :telescope: I try myself in contributing to open-source Android projects and developing interesting projects
 - :zap: In my free time, I solve problems on LeetCode, read tech articles and books
 - :mailbox: How to contact me: My e-mail or Telegram @EchoReTik
 
