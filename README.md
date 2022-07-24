@@ -13,7 +13,7 @@
   
 - :telescope: I try myself in contributing to open-source Android projects and developing interested projects
 - :zap: In my free time, I solve problems on LeetCode, read tech articles and books
-- :mailbox: How to reach me: My e-mail or Telegram @EchoReTik
+- :mailbox: How to contact me: My e-mail or Telegram @EchoReTik
 
 ---
 
