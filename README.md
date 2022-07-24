@@ -7,7 +7,7 @@
 <h3 align="center">Computer science student, beginner programmer from Russia</h3>
 🌱 I’m currently learning Android and Backend with Go 
 
-👯 I’m looking for internship or any other work to get experience and start my career
+👯 I’m looking for an internship or any other work to get experience and start my career
 
 ### About Me :
   
