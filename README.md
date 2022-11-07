@@ -1,6 +1,6 @@
 <h1 align="center">Hi friend, I'm Yury</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, programmer from Russia</h3>
+<h3 align="center">Computer science student, programmer from Kazakhstan</h3>
 🌱 I’m currently learning Android, Backend Development and Testing Basics
 
 👯 I’m looking for an internship or any other work to get experience and start my career
