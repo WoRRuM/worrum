@@ -1,10 +1,10 @@
 <h1 align="center">Hi friend, I'm Yury</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, programmer from Kazakhstan</h3>
-🌱 I’m currently learning Android, Backend Development and Testing Basics
+<h3 align="center">Computer science student, programmer enthusiast and working DevOps Engineer from Russia</h3>
+🌱 I’m currently improving myself in DevOps, Backend Development
 
-👯 I’m looking for an internship or any other work to get experience and start my career
-
+👯 I’m looking for a relocate or remote work opportunities
+📬 Feel free to contact me in my telegram - @EchoReTik or mail in profile description
 ### About Me :
   
 - :telescope: I try myself in contributing to open-source Android and developing interesting projects
