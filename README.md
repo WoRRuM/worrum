@@ -1,12 +1,12 @@
 <h1 align="center">Hi friend, I'm Yury</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, programmer enthusiast and working DevOps Engineer</h3>
-🌱 I’m currently improving myself in DevOps, Backend Development
+🌱 I’m currently improving myself in DevOps and learning Rust for fun. Also, I have a little bit of experience in Backend
 
 👯 I’m looking for a relocate or remote work opportunities
 ### About Me :
   
-- :telescope: I try myself in contributing to open-source Android and developing interesting projects
+- :telescope: I try myself in contributing to open-source and developing interesting projects
 - :zap: In my free time, I solve problems on LeetCode, read tech articles and books
 - :mailbox: How to contact me: My e-mail or Telegram @EchoReTik
 
