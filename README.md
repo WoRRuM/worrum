@@ -1,6 +1,6 @@
 <h1 align="center">Hi friend, I'm Yury</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, programmer enthusiast and working DevOps Engineer</h3>
+<h3 align="center">Computer science student, programmer enthusiast and experienced DevOps Engineer</h3>
 🌱 I’m currently improving myself in DevOps and learning Rust for fun. Also, I have a little bit of experience in Backend
 
 👯 I’m looking for a relocate or remote work opportunities
